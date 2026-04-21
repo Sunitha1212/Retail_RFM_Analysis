@@ -1,0 +1,21 @@
+customer_id,Recency,Frequency,Monetary,Customer_Segment
+1,10,10,9000,Champions
+2,190,5,2400,Loyal Customers
+3,21,14,8200,Champions
+4,5,9,4800,Loyal Customers
+5,155,6,1800,Loyal Customers
+6,156,5,2300,Loyal Customers
+7,23,5,2300,Loyal Customers
+8,46,11,6300,Champions
+9,53,6,1700,Loyal Customers
+10,154,6,2900,Loyal Customers
+11,80,8,5800,Loyal Customers
+12,22,7,4300,Loyal Customers
+13,10,5,1900,Loyal Customers
+14,4,9,4700,Loyal Customers
+15,37,11,5800,Champions
+16,71,6,4100,Loyal Customers
+17,21,7,3700,Loyal Customers
+18,64,8,5300,Loyal Customers
+19,1,4,1300,Potential Customers
+20,10,8,5000,Loyal Customers
